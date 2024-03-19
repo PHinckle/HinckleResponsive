@@ -1,2 +1,2 @@
 # HinckleResponsive
-Responsive web page
+This is a responsive web page
